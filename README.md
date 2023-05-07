@@ -4,15 +4,15 @@ Repository for solving Java related Questions.
 
 ## Topics related to:
 
--Using Eclipse
--User inputs, Command-line arguments and Javadoc
--Class and Object
--ArrayList
--OOP, Inheritance, Interface
--GUI, Event handling, Swing components
--Networking and Multi-threading
--Serialization and File I/O
--Exception Handling
+-Using Eclipse   
+-User inputs, Command-line arguments and Javadoc   
+-Class and Object   
+-ArrayList   
+-OOP, Inheritance, Interface   
+-GUI, Event handling, Swing components   
+-Networking and Multi-threading   
+-Serialization and File I/O   
+-Exception Handling   
 
 ### 🛠 Skills
 
